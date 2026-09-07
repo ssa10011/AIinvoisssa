@@ -34,7 +34,7 @@ st.write(
 # Upload CSV + analyze dataset
 
 ANALYZE_WEBHOOK_URL = (
-    "https://noofas.app.n8n.cloud/webhook/invoice-upload"
+    "https://s30d.app.n8n.cloud/webhook/invoice-upload"
 )
 
 
@@ -42,7 +42,7 @@ ANALYZE_WEBHOOK_URL = (
 # Ask questions about analyzed data
 
 ASK_WEBHOOK_URL = (
-    "https://noofas.app.n8n.cloud/webhook/ask-invoice-data"
+    "https://s30d.app.n8n.cloud/webhook/ask-invoice-data"
 )
 
 
